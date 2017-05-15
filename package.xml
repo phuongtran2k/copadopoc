@@ -416,6 +416,7 @@
   <types>
     <members>Account.AccountNumber</members>
     <members>Account.AccountSource</members>
+    <members>Account.Account_Custom__c</members>
     <members>Account.Active__c</members>
     <members>Account.AnnualRevenue</members>
     <members>Account.BillingAddress</members>
@@ -592,6 +593,7 @@
     <members>Case.ContactPhone</members>
     <members>Case.CreatedById</members>
     <members>Case.CreatedDate</members>
+    <members>Case.CustomNumberSP__c</members>
     <members>Case.Description</members>
     <members>Case.EngineeringReqNumber__c</members>
     <members>Case.Id</members>

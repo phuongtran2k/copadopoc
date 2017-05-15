@@ -77,6 +77,18 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Account_Custom__c</fullName>
+        <description>I love to put descriptions in this box</description>
+        <externalId>false</externalId>
+        <inlineHelpText>fill in the stuff</inlineHelpText>
+        <label>Account Custom</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Active__c</fullName>
         <externalId>false</externalId>
         <label>Active</label>
