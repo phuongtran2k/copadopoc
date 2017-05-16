@@ -10,6 +10,7 @@
     <tab>standard-Forecasting3</tab>
     <tab>standard-Order</tab>
     <tab>standard-Case</tab>
+    <tab>standard-CasePhuong</tab>
     <tab>standard-Solution</tab>
     <tab>standard-Product2</tab>
     <tab>standard-report</tab>
