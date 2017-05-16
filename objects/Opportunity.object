@@ -143,6 +143,18 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Mei__c</fullName>
+        <description>test</description>
+        <externalId>false</externalId>
+        <label>Mei</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <trackTrending>false</trackTrending>
