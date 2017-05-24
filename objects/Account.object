@@ -345,9 +345,19 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>flush__c</fullName>
+        <externalId>false</externalId>
+        <label>flush</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>usaa_memberid__c</fullName>
         <caseSensitive>false</caseSensitive>
-        <description>member id</description>
+        <description>member id- change descriiption flush</description>
         <externalId>false</externalId>
         <inlineHelpText>type in member id</inlineHelpText>
         <label>usaa_memberid</label>
