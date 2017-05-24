@@ -8,10 +8,5 @@
         <members>Insurance_Policy__c</members>
         <name>CustomTab</name>
     </types>
-    <types>
-        <members>Admin</members>
-        <members>Standard</members>
-        <name>Profile</name>
-    </types>
     <version>39.0</version>
 </Package>
