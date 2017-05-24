@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>ShravanClass</members>
-        <name>ApexClass</name>
+        <members>Insurance_Policy__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Insurance_Policy__c-en_US</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>Insurance_Policy__c-Insurance Policy Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Insurance_Policy__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Insurance_Policy__c</members>
+        <name>Workflow</name>
     </types>
     <version>39.0</version>
 </Package>
