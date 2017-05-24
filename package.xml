@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Custom_Insurance_App</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
-        <members>Insurance_Policy__c</members>
-        <name>CustomTab</name>
+        <members>Account.usaa_memberid__c</members>
+        <name>CustomField</name>
     </types>
     <version>39.0</version>
 </Package>
