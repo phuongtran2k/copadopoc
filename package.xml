@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.flush__c</members>
-        <name>CustomField</name>
+        <members>Fin_Serv</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Financial_Accounts__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Financial_Accounts__c-en_US</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>Financial_Accounts__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Financial_Accounts__c-Financial Account Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Financial_Accounts__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Financial_Accounts__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Financial_Accounts__c</members>
+        <name>Workflow</name>
     </types>
     <version>39.0</version>
 </Package>
